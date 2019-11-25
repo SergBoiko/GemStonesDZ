@@ -1,0 +1,40 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\bin\Release\GemStones.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\bin\Release\GemStones.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\bin\Release\GemStones.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Release\GemStones.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Release\GemStones.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Release\GemStones.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Release\GemStones.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Release\GemStones.pdb
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.exe.config
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.exe
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.pdb
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.dll
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.pdb
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.csprojAssemblyReference.cache
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.csproj.CoreCompileInputs.cache
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.csproj.CopyComplete
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.exe
+D:\Downloads\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.BL.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.DAL.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\EntityFramework.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.Presentation.dll.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.BL.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.DAL.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\GemStones.DAL.dll.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\EntityFramework.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\obj\Release\GemStones.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones\bin\Release\EntityFramework.SqlServer.xml

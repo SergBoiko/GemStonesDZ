@@ -1,0 +1,2 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Debug\GemStones.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones\obj\Debug\GemStones.csproj.CoreCompileInputs.cache
