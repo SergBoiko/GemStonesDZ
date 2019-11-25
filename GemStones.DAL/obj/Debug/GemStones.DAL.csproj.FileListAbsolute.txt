@@ -1,0 +1,48 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.dll.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.InitialCreate.resources
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.GenerateResource.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.MoveTypeToTable.resources
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.AddGemstones.resources
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.dll.config
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.dll
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.pdb
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.dll
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.xml
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csprojAssemblyReference.cache
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.InitialCreate.resources
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.MoveTypeToTable.resources
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.AddGemstones.resources
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.GenerateResource.cache
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.CopyComplete
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.dll
+D:\Downloads\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.dll.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\GemStones.DAL.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.InitialCreate.resources
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.MoveTypeToTable.resources
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.Migrations.AddGemstones.resources
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.GenerateResource.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\GemStonesDZ1\GemStones\GemStones\GemStones\GemStones.DAL\obj\Debug\GemStones.DAL.pdb
